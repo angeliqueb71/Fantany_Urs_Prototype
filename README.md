@@ -29,6 +29,8 @@ Sketch App Tutorials - Series Introduction - RECOMMEND
 
 https://www.youtube.com/watch?v=AV2OkzIGykA&list=PLLnpHn493BHE6UIsdKYlS5zu-ZYvx22CS
 
+8-part video series covering Sketch design 
+
 https://www.switchtosketchapp.com/?utm_source=google&utm_medium=paid_search&utm_campaign=G_NAM_Search_NonBranded_PriorityCompetitors_EM&utm_content=Sketch_EM&utm_term=sketch_e&_bk=sketch&_bt=175092914058&_bm=e&_bn=g&gclid=CjwKCAjwt8rMBRBOEiwA2F2biJX4y8jPj22y3JW4NoQQOGkc4TQuSYUbW3Z4ZjXB1IiSnH-QHeed8hoCjAMQAvD_BwE
 
 Create HTML in Sketch
