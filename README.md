@@ -1,6 +1,7 @@
 Fantasy Urs
 
 Is a add on for fantasy sports websites - Fantasy Teams - to create a customize narbar according to their team.
+Having the real time alerts from their fantasy team.
 
 
 Things you may want to cover: built with
