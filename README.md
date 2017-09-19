@@ -17,7 +17,11 @@ https://www.sketchapp.com/
 
 Links to help for Sketch
 
+SKETCH - Toolbox
+
 https://github.com/angeliqueb71/Sketch-Toolbox
+
+Sketch Mirror
 
 https://www.sketchapp.com/docs/mirror/mirror/
 
